@@ -40,7 +40,7 @@
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/C++-blue" /> 
-        <img src="https://img.shields.io/badge/C#-blue" /> 
+        <img src="https://img.shields.io/badge/C♯-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Web3.js-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
