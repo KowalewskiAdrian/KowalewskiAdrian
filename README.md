@@ -6,10 +6,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -18,6 +18,7 @@
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Dev<b></td> -->
       <td valign="center" width="100px"><b>Game Engine<b></td>
+      <td valign="center" width="100px"><b>Languages<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -38,7 +39,8 @@
         <img src="https://img.shields.io/badge/Chart.js-blue" /> -->
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/C/C++-blue" /> 
+        <img src="https://img.shields.io/badge/C++-blue" /> 
+        <img src="https://img.shields.io/badge/C#-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Web3.js-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
@@ -49,8 +51,10 @@
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" /> -->
       </td>
-      <td valign="center" align="center" width="300px">
+      <!-- <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
         <img src="https://img.shields.io/badge/CI/CD-blue" /> 
         <img src="https://img.shields.io/badge/Docker-blue" /> 
         <img src="https://img.shields.io/badge/TDD-blue" /> 
@@ -59,17 +63,20 @@
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" />
+      </td> -->
     </tr>
   </table>
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Additional<b></td>
       <!-- <td valign="center" width="100px"><b>Design<b></td> -->
     </tr>
       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Multiplayer-blue" /> 
+        <img src="https://img.shields.io/badge/Blockchain-blue" /> 
+        <img src="https://img.shields.io/badge/AR/VR/XR-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Django-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <img src="https://img.shields.io/badge/Selenium-blue" />        
@@ -81,9 +88,6 @@
         <img src="https://img.shields.io/badge/Flask-blue" /> 
         <img src="https://img.shields.io/badge/PHP-blue" /> 
         <img src="https://img.shields.io/badge/Laravel-blue" />  -->
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
     <tr>
      <!-- <td valign="center" align="center" width="300px">
@@ -99,38 +103,38 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
-  <img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/portfolio.webp" alt="Portfolio"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/kenjitakuma7/kenjitakuma7/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider1.png" alt="divider"/>
 </div> 
 
    
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kenjitakuma7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kowalewskiadrian&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenjitakuma7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/kowalewskiadrian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:kenjitakuma7256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:kowalewskiadrian256@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/kenjitakuma7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/kowalewskiadrian" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://kenjitakuma7.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://kowalewskiadrian.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </p>
 
