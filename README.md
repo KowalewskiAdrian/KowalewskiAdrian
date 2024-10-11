@@ -17,8 +17,8 @@
       <!--<td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Dev<b></td> -->
-      <td halign="center" valign="center" width="100px"><b>Game Engine<b></td>
-      <td valign="center" width="100px"><b>Languages<b></td>
+      <td valign="center" align="center" width="100px"><b>Game Engine<b></td>
+      <td valign="center" align="center" width="100px"><b>Languages<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -70,7 +70,7 @@
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Additional<b></td>
+      <td valign="center" align="center" width="100px"><b>Additional<b></td>
       <!-- <td valign="center" width="100px"><b>Design<b></td> -->
     </tr>
       <td valign="center" align="center" width="300px">
