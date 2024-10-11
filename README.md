@@ -17,7 +17,7 @@
       <!--<td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Dev<b></td> -->
-      <td valign="center" width="100px"><b>Game Engine<b></td>
+      <td halign="center" valign="center" width="100px"><b>Game Engine<b></td>
       <td valign="center" width="100px"><b>Languages<b></td>
     </tr>
     <tr>
