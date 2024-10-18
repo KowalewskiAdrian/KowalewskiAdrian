@@ -2,7 +2,7 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am a Game Developer.
+  I am a Senior Game & Full Stack Developer.
 </h3>
 
 <div align="center">
@@ -24,6 +24,7 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Unity-blue" /> 
         <img src="https://img.shields.io/badge/Unreal-blue" /> 
+        <img src="https://img.shields.io/badge/Godot-blue" /> 
         <!-- <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" /> 
@@ -41,6 +42,7 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/C++-blue" /> 
         <img src="https://img.shields.io/badge/C♯-blue" /> 
+        <img src="https://img.shields.io/badge/GO-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Web3.js-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
