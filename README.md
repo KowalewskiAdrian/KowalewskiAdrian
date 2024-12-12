@@ -144,6 +144,17 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kowalewskiadrian&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
+<p align = "center">
+  <iframe src="https://www.hackerrank.com/certificates/iframe/51e80ff135b9" title="C#"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/1058e15a7d4b" title="Software Engineer"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/3daf955f1937" title="Rest API (Intermediate)"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/e0f0f4d2819c" title="Problem Solving (Basic)"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/d716c6827aad" title="Problem Solving (Intermediate)"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/20021f905066" title="SQL (Basic)"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/f62f733d424e" title="SQL (Intermediate)"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/735dd3ce75f9" title="SQL (Advanced)"></iframe>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kowalewski-adrian-30260132b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
