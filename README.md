@@ -145,8 +145,8 @@
 </p>
 
 <p align = "center">
-  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
-  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
+  <img width="500" height="600" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
+  <img width="500" height="600" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
