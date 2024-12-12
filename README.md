@@ -145,14 +145,14 @@
 </p>
 
 <p align = "center">
-  <img src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
-  <iframe src="https://www.hackerrank.com/certificates/iframe/1058e15a7d4b" title="Software Engineer"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/3daf955f1937" title="Rest API (Intermediate)"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/e0f0f4d2819c" title="Problem Solving (Basic)"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/d716c6827aad" title="Problem Solving (Intermediate)"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/20021f905066" title="SQL (Basic)"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/f62f733d424e" title="SQL (Intermediate)"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/735dd3ce75f9" title="SQL (Advanced)"></iframe>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_basic certificate.png" alt="SQL (Basic)"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_intermediate certificate.png" alt="SQL (Intermediate)"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_advanced certificate.png" alt="SQL (Advanced)"/>
 </p>
 
 <p align="center">
