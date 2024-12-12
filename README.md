@@ -141,10 +141,6 @@
 
    
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kowalewskiadrian&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-<p align = "center">
   <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
   <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
   <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
@@ -154,6 +150,11 @@
   <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_intermediate certificate.png" alt="SQL (Intermediate)"/>
   <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_advanced certificate.png" alt="SQL (Advanced)"/>
 </p>
+
+<div align="center">
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider1.png" alt="divider"/>
+</div> 
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kowalewski-adrian-30260132b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
