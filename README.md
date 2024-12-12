@@ -145,8 +145,8 @@
 </p>
 
 <p align = "center">
-  <iframe src="https://www.hackerrank.com/certificates/iframe/51e80ff135b9" width="100%" height="300" style="border:1px solid black;">
-</iframe>
+  <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
+  </iframe>
   <iframe src="https://www.hackerrank.com/certificates/iframe/1058e15a7d4b" title="Software Engineer"></iframe>
   <iframe src="https://www.hackerrank.com/certificates/iframe/3daf955f1937" title="Rest API (Intermediate)"></iframe>
   <iframe src="https://www.hackerrank.com/certificates/iframe/e0f0f4d2819c" title="Problem Solving (Basic)"></iframe>
