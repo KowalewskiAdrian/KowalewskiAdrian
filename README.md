@@ -145,11 +145,11 @@
 </p>
 
 <p align = "center">
-  <img width="300" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
-  <img width="300" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
-  <img width="300" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
-  <img width="300" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
-  <img width="300" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
+  <img width="250" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
+  <img width="250" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
+  <img width="250" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
+  <img width="250" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
+  <img width="250" height="200" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_basic certificate.png" alt="SQL (Basic)"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_intermediate certificate.png" alt="SQL (Intermediate)"/>
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_advanced certificate.png" alt="SQL (Advanced)"/>
