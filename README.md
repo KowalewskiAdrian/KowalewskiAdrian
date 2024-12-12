@@ -136,7 +136,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider2.png" alt="divider"/>
 </div> 
 
    
