@@ -140,14 +140,14 @@
 </div> 
 
 <p align = "center">
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/c_sharp_basic certificate.png" alt="C#"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/software_engineer certificate.png" alt="Software Engineer"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_basic certificate.png" alt="SQL (Basic)"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_intermediate certificate.png" alt="SQL (Intermediate)"/>
-  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/sql_advanced certificate.png" alt="SQL (Advanced)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/c_sharp_basic certificate.png" alt="C#"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/software_engineer certificate.png" alt="Software Engineer"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/rest_api_intermediate certificate.png" alt="Rest API (Intermediate)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/problem_solving_basic certificate.png" alt="Problem Solving (Basic)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/problem_solving_intermediate certificate.png" alt="Problem Solving (Intermediate)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/sql_basic certificate.png" alt="SQL (Basic)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/sql_intermediate certificate.png" alt="SQL (Intermediate)"/>
+  <img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Certificate/sql_advanced certificate.png" alt="SQL (Advanced)"/>
 </p>
 
 <div align="center">
@@ -167,7 +167,7 @@
 </div> 
 
 <p align = "center">
-  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.landlordkingdom&hl=en" target="_blank" rel="Landlord Kingdom"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://apps.apple.com/us/app/arrow-fever/id6447165095" target="_blank" rel="Arrow Fever"><img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow Fever.avif"  width="50" /></a>
 </p>
 
 
