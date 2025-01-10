@@ -167,7 +167,7 @@
 </div> 
 
 <p align = "center">
-  <a href="https://apps.apple.com/us/app/arrow-fever/id6447165095" target="_blank" rel="Arrow Fever"><img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow Fever.avif"  width="50" /></a>
+  <a href="https://apps.apple.com/us/app/arrow-fever/id6447165095" target="_blank" rel="Arrow Fever"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow Fever.avif"  width="50" /></a>
 </p>
 
 
