@@ -154,13 +154,13 @@
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center">
+<h1 align="center">
   Who am I?
-</h3>
+</h1>
 
-<p align="center">
+<h3 align="center">
   My name is Adrian, As someone who grew up with a passion for games since my childhood, I love to develop mobile games and have fun. I first started developing games with Unity in early 2015 and continued to improve myself constantly by doing new game projects or watching various mechanics by watching videos. By constantly following the ball trends in the hyper-casual playground, I did not stay behind the agenda and continued to improve myself in every subject. My career began at Ovilex Software, where I created advanced physics and control algorithms for vehicle simulator games, And I worked at Reliance Games, where we developed online action mobile games that run smoothly on a variety of mobile devices. A notable project is the Game of Revenge, a Casual MMO Strategy game that I developed and led from the concept step. I performed extensive code reviews, gathered user feedback, and iteratively improved the overall game experience to ensure a high-quality final product that meets player expectations. I have also developed many puzzle games such as Quirkpop(Match-3), card games such as The Nemots, and casino games such as Super Dragon. My core skills include proficiency in C#, .NET, Unity Engine, React, and version control systems such as Git and Plastic. I also have strong problem-solving skills, team collaboration, and adaptability to new technologies. I have a degree in Computer Science (Game Development) from the University of Plymouth.
-</p>
+</h3>
 
 <div align="center">
   <img src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/divider2.png" alt="divider"/>
