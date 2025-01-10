@@ -167,7 +167,20 @@
 </div> 
 
 <p align = "center">
-  <a href="https://apps.apple.com/us/app/arrow-fever/id6447165095" target="_blank" rel="Arrow Fever"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow Fever.avif"  width="50" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.landlordkingdom&hl=en" target="_blank" rel="Landlord Kingdom"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Landlord Kingdom.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.wreckingjam" target="_blank" rel="Wrecking Jam"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Wrecking Jam.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.buildwing" target="_blank" rel="Build A Wing"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Build A Wing.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.unlock" target="_blank" rel="Unlock Cars"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock Cars.avif"/></a>
+
+  <a href="https://lagged.com/en/g/stretchy-thief" target="_blank" rel="Stretchy Thief"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Stretchy Thief.avif"/></a>
+  <a href="https://lagged.com/en/g/dino-rush" target="_blank" rel="Dino Rush!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Dino Rush!.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.timeup" target="_blank" rel="Time's Up!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Time's Up!.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.wonderful.luckyshot&hl=en_US" target="_blank" rel="Feelin' Lucky"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Feelin' Lucky.avif"/></a>
+
+  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
+  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
+  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
+  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
 </p>
 
 
