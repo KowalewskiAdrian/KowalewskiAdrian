@@ -177,10 +177,30 @@
   <a href="https://play.google.com/store/apps/details?id=com.bermudagames.timeup" target="_blank" rel="Time's Up!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Time's Up!.avif"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.wonderful.luckyshot&hl=en_US" target="_blank" rel="Feelin' Lucky"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Feelin' Lucky.avif"/></a>
 
-  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
-  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
-  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
-  <a href="" target="_blank" rel="Unlock"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Unlock.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.wonderful.stringin&hl=en_US" target="_blank" rel="String Shot"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/String Shot.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.bowspin&hl=en_US" target="_blank" rel="Bow Spin"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Bow Spin.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.reloadin&hl=en_US" target="_blank" rel="Reloadin!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Reloadin!.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.gunnroll&hl=en_US" target="_blank" rel="Gun'n Roll"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Gun'n Roll.avif"/></a>
+
+  <a href="https://lagged.com/en/g/trade-accepted" target="_blank" rel="Trade Accepted"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Trade Accepted.avif"/></a>
+  <a href="https://apps.apple.com/us/app/arrowem-up/id6467224356" target="_blank" rel="Arrow'em Up!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow'em Up!.avif"/></a>
+  <a href="https://apps.apple.com/us/app/magazine-shot/id6459789401" target="_blank" rel="Magazine Shot!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Magazine Shot!.avif"/></a>
+  <a href="https://apps.apple.com/us/app/vacuum-shot/id6451306549" target="_blank" rel="Vacuum Shot!"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Vacuum Shot!.avif"/></a>
+
+  <a href="https://apps.apple.com/us/app/arrow-fever/id6447165095" target="_blank" rel="Arrow Fever"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Arrow Fever.avif"/></a>
+  <a href="https://apps.apple.com/tr/app/bounce-blast/id6447501804" target="_blank" rel="Bounce Blast"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Bounce Blast.avif"/></a>
+  <a href="https://apps.apple.com/tr/app/digit-press/id6446826575" target="_blank" rel="Digit Press"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Digit Press.avif"/></a>
+  <a href="https://apps.apple.com/tr/app/war-n-ropes/id6446408646" target="_blank" rel="War'n Ropes"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/War'n Ropes.avif"/></a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.bouncenballs&gl=TR" target="_blank" rel="Bounce'n Balls"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Bounce'n Balls.avif"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bermudagames.zipthemall&gl=TR" target="_blank" rel="Zip'em All"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Zip'em All.avif"/></a>
+  <a href="https://www.youtube.com/watch?v=AouD_8ajKOY" target="_blank" rel="Run Rich 3D - Clone"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Run Rich 3D - Clone.avif"/></a>
+  <a href="https://www.youtube.com/watch?v=FT2PKeKS6LE" target="_blank" rel="Runner Pusher - Clone"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Runner Pusher - Clone.avif"/></a>
+
+  <a href="https://www.youtube.com/watch?v=l5ETD0dGvAk" target="_blank" rel="Twin Rollers"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Twin Rollers.avif"/></a>
+  <a href="https://www.youtube.com/shorts/9ovpVB3MvWQ" target="_blank" rel="Twin Barrels - Clone"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Twin Barrels - Clone.avif"/></a>
+  <a href="https://www.youtube.com/shorts/OhYo2VLedHg" target="_blank" rel="Coffee Stack - Clone"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Coffee Stack - Clone.avif"/></a>
+  <a href="https://www.youtube.com/watch?v=hEpLuKsaUjI" target="_blank" rel="Ladder Race - Clone"><img width="200" height="150" src="https://github.com/kowalewskiadrian/kowalewskiadrian/blob/main/Portfolio/Ladder Race - Clone.avif"/></a>
 </p>
 
 
